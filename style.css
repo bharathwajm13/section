@@ -21,10 +21,7 @@
     border: 2px solid black;
     border-radius: 3px;
 }
-.insta{
-    background-color: #ca2059;
-    color: white;
-}
+
 
 .item i {
     font-size: 70px;
@@ -49,14 +46,12 @@
     font-size: 15px;
     text-transform: uppercase;
 }
-.instabtn{
-    border-radius: 30px;
-    width: 250px;
-    height: 50px;
-    background-color: white;
+
+.social:hover{
+    background-color:#ca2059;
+    color:white;
+}
+.btn:hover{
+    background-color:white;
     color:#ca2059;
-    cursor: pointer;
-    border: none;
-    font-size: 15px;
-    text-transform: uppercase;
 }
